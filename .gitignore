@@ -1,0 +1,37 @@
+# Generated frames
+frames/
+
+# YOLO output images
+output/
+
+# Videos
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# YOLO model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.venv/
+logs/
